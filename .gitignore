@@ -1,0 +1,4 @@
+user.cfg
+backups
+scripts/db_analysis/results
+*.db
