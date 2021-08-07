@@ -1,4 +1,4 @@
-Generated on `Samstag 07-August-2021 at 08:33:29`
+Generated on `Samstag 07-August-2021 at 08:34:33`
 
 ### Current to Target Coin Ratio
 `current_coin_ratio.sh`
@@ -12,9 +12,19 @@ _When ratio goes above zero, the bot will buy it via the bridge coin._
 `current_coin_progress.sh`
 
 
+**Trade no:** 
+12
+**Hodlings:** 
+11.17216
+**Date:** 
+2021-08-07 06:25:37.023968
+**Grow:** 
+0
+%
+
 **Current coin:** 
 
-
+DASH
 
 
 ### All Coins Progress
@@ -24,7 +34,7 @@ Coin|Starting value|Last value|Grow %
 ---|---|---|---
 ATOM|-|-|-
 BAT|-|-|-
-DASH|-|-|-
+DASH|11.17216|11.17216|0
 SOL|-|-|-
 EOS|-|-|-
 ETC|34.025|34.025|0
