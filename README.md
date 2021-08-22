@@ -1,22 +1,22 @@
-Generated on `Sonntag 22-August-2021 at 20:12:15`
+Generated on `Sonntag 22-August-2021 at 20:13:20`
 
 ### Current to Target Coin Ratio
 `current_coin_ratio.sh`
 
 Date|Current|Target|Ratio
 ---|---|---|---
-2021-08-22 20:11:44.284900|ATOM|SOL|-0.04
-2021-08-22 20:11:44.284900|ATOM|ETC|-1.25
-2021-08-22 20:11:44.284900|ATOM|OMG|-1.56
-2021-08-22 20:11:44.284900|ATOM|VET|-1.77
-2021-08-22 20:11:44.284900|ATOM|BAT|-1.84
-2021-08-22 20:11:44.284900|ATOM|QTUM|-1.9
-2021-08-22 20:11:44.284900|ATOM|DASH|-2.08
-2021-08-22 20:11:44.284900|ATOM|NEO|-2.09
-2021-08-22 20:11:44.284900|ATOM|ONT|-2.14
-2021-08-22 20:11:44.284900|ATOM|EOS|-2.34
-2021-08-22 20:11:44.284900|ATOM|ICX|-2.46
-2021-08-22 20:11:44.284900|ATOM|XMR|-2.55
+2021-08-22 19:56:33.135021|SOL|ATOM|0.44
+2021-08-22 19:56:33.135021|SOL|OMG|-0.34
+2021-08-22 19:56:33.135021|SOL|VET|-0.53
+2021-08-22 19:56:33.135021|SOL|ETC|-0.57
+2021-08-22 19:56:33.135021|SOL|QTUM|-0.75
+2021-08-22 19:56:33.135021|SOL|DASH|-0.87
+2021-08-22 19:56:33.135021|SOL|NEO|-0.9
+2021-08-22 19:56:33.135021|SOL|EOS|-0.96
+2021-08-22 19:56:33.135021|SOL|BAT|-1.05
+2021-08-22 19:56:33.135021|SOL|ONT|-1.1
+2021-08-22 19:56:33.135021|SOL|XMR|-1.19
+2021-08-22 19:56:33.135021|SOL|ICX|-1.55
 
 _When ratio goes above zero, the bot will buy it via the bridge coin._
 
@@ -25,18 +25,18 @@ _When ratio goes above zero, the bot will buy it via the bridge coin._
 
 
 **Trade no:** 
-2
+4
 **Hodlings:** 
-213.962
+63.326
 **Date:** 
-2021-08-22 17:56:34.136106
+2021-08-22 18:12:47.675104
 **Grow:** 
 0
 %
 
 **Current coin:** 
 
-ATOM
+SOL
 
 
 ### All Coins Progress
@@ -47,7 +47,7 @@ Coin|Starting value|Last value|Grow %
 ATOM|213.962|213.962|0
 BAT|-|-|-
 DASH|-|-|-
-SOL|-|-|-
+SOL|63.326|63.326|0
 EOS|-|-|-
 ETC|-|-|-
 ICX|-|-|-
@@ -66,6 +66,7 @@ XMR|-|-|-
 Date|Coin|Amount
 ---|---|---
 2021-08-22 17:56:34.136106|ATOM|213.962
+2021-08-22 18:12:47.675104|SOL|63.326
 
 
 ## See [here for beginners instructions](INSTRUCTIONS.md)
