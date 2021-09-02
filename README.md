@@ -1,10 +1,22 @@
-Generated on `Donnerstag 02-September-2021 at 17:36:13`
+Generated on `Donnerstag 02-September-2021 at 17:37:17`
 
 ### Current to Target Coin Ratio
 `current_coin_ratio.sh`
 
 Date|Current|Target|Ratio
 ---|---|---|---
+2021-09-02 17:37:02.103301|NEO|QTUM|-1.76
+2021-09-02 17:37:02.103301|NEO|BAT|-2.68
+2021-09-02 17:37:02.103301|NEO|ICX|-3.67
+2021-09-02 17:37:02.103301|NEO|ONT|-3.76
+2021-09-02 17:37:02.103301|NEO|DASH|-3.82
+2021-09-02 17:37:02.103301|NEO|EOS|-4.03
+2021-09-02 17:37:02.103301|NEO|ETC|-5.15
+2021-09-02 17:37:02.103301|NEO|XMR|-5.71
+2021-09-02 17:37:02.103301|NEO|OMG|-6.75
+2021-09-02 17:37:02.103301|NEO|VET|-11.79
+2021-09-02 17:37:02.103301|NEO|ATOM|-16.68
+2021-09-02 17:37:02.103301|NEO|SOL|-37.98
 
 _When ratio goes above zero, the bot will buy it via the bridge coin._
 
