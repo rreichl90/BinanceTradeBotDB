@@ -1,22 +1,10 @@
-Generated on `Freitag 03-September-2021 at 15:25:14`
+Generated on `Freitag 03-September-2021 at 15:26:18`
 
 ### Current to Target Coin Ratio
 `current_coin_ratio.sh`
 
 Date|Current|Target|Ratio
 ---|---|---|---
-2021-09-03 15:24:57.500106|NEO|BAT|0.09
-2021-09-03 15:24:57.500106|NEO|QTUM|-0.02
-2021-09-03 15:24:57.500106|NEO|ONT|-0.91
-2021-09-03 15:24:57.500106|NEO|DASH|-1.11
-2021-09-03 15:24:57.500106|NEO|XMR|-2.18
-2021-09-03 15:24:57.500106|NEO|EOS|-2.19
-2021-09-03 15:24:57.500106|NEO|ETC|-3.88
-2021-09-03 15:24:57.500106|NEO|ICX|-4.34
-2021-09-03 15:24:57.500106|NEO|OMG|-5.92
-2021-09-03 15:24:57.500106|NEO|VET|-7.04
-2021-09-03 15:24:57.500106|NEO|ATOM|-10.75
-2021-09-03 15:24:57.500106|NEO|SOL|-43.56
 
 _When ratio goes above zero, the bot will buy it via the bridge coin._
 
@@ -25,18 +13,28 @@ _When ratio goes above zero, the bot will buy it via the bridge coin._
 
 
 **Trade no:** 
-20
+16
 **Hodlings:** 
-93.55
+377.9
 **Date:** 
-2021-09-02 15:35:57.991516
+2021-08-31 20:38:33.076108
 **Grow:** 
 0
 %
 
+**Trade no:** 
+22
+**Hodlings:** 
+397.4
+**Date:** 
+2021-09-03 13:26:00.874982
+**Grow:** 
+5.1601
+%
+
 **Current coin:** 
 
-NEO
+QTUM
 
 
 ### All Coins Progress
@@ -54,7 +52,7 @@ ICX|3425.9|3425.9|0
 NEO|93.55|93.55|0
 OMG|-|-|-
 ONT|4578.0|4578.0|0
-QTUM|377.9|377.9|0
+QTUM|377.9|397.4|5.1601
 VET|-|-|-
 XMR|-|-|-
 
@@ -74,6 +72,7 @@ Date|Coin|Amount
 2021-08-29 03:26:49.451454|ICX|3425.9
 2021-09-02 15:35:57.991516|NEO|93.55
 2021-09-01 06:15:48.821380|ONT|4578.0
+2021-09-03 13:26:00.874982|QTUM|397.4
 2021-08-31 20:38:33.076108|QTUM|377.9
 
 
