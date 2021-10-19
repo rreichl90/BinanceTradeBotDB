@@ -1,4 +1,4 @@
-Generated on `Wednesday 20-October-2021 at 00:35:26`
+Generated on `Wednesday 20-October-2021 at 00:36:29`
 
 ### Current to Target Coin Ratio
 `current_coin_ratio.sh`
@@ -32,6 +32,16 @@ _When ratio goes above zero, the bot will buy it via the bridge coin._
 18.6399
 %
 
+**Trade no:** 
+36
+**Hodlings:** 
+7988.0
+**Date:** 
+2021-10-19 21:54:06.742228
+**Grow:** 
+31.533
+%
+
 **Current coin:** 
 
 BAT
@@ -43,7 +53,7 @@ BAT
 Coin|Starting value|Last value|Grow %
 ---|---|---|---
 ATOM|138.26|154.11|11.4639
-BAT|6073.0|7205.0|18.6399
+BAT|6073.0|7988.0|31.533
 DASH|23.785|27.127|14.0509
 SOL|-|-|-
 EOS|977.9|977.9|0
