@@ -1,22 +1,10 @@
-Generated on `Thursday 28-October-2021 at 05:26:14`
+Generated on `Thursday 28-October-2021 at 05:27:17`
 
 ### Current to Target Coin Ratio
 `current_coin_ratio.sh`
 
 Date|Current|Target|Ratio
 ---|---|---|---
-2021-10-28 05:19:43.307640|BAT|NEO|-2.73
-2021-10-28 05:19:43.307640|BAT|EOS|-5.32
-2021-10-28 05:19:43.307640|BAT|ONT|-6.29
-2021-10-28 05:19:43.307640|BAT|ETC|-7.97
-2021-10-28 05:19:43.307640|BAT|DASH|-11.16
-2021-10-28 05:19:43.307640|BAT|XMR|-13.24
-2021-10-28 05:19:43.307640|BAT|ATOM|-18.82
-2021-10-28 05:19:43.307640|BAT|ICX|-19.57
-2021-10-28 05:19:43.307640|BAT|QTUM|-21.13
-2021-10-28 05:19:43.307640|BAT|SOL|-28.52
-2021-10-28 05:19:43.307640|BAT|VET|-29.1
-2021-10-28 05:19:43.307640|BAT|OMG|-32.6
 
 _When ratio goes above zero, the bot will buy it via the bridge coin._
 
@@ -25,38 +13,18 @@ _When ratio goes above zero, the bot will buy it via the bridge coin._
 
 
 **Trade no:** 
-4
+18
 **Hodlings:** 
-6073.0
+106.39
 **Date:** 
-2021-09-22 15:15:06.459918
+2021-09-25 06:46:01.746751
 **Grow:** 
 0
 %
 
-**Trade no:** 
-30
-**Hodlings:** 
-7205.0
-**Date:** 
-2021-10-07 16:27:26.838104
-**Grow:** 
-18.6399
-%
-
-**Trade no:** 
-36
-**Hodlings:** 
-7988.0
-**Date:** 
-2021-10-19 21:54:06.742228
-**Grow:** 
-31.533
-%
-
 **Current coin:** 
 
-BAT
+NEO
 
 
 ### All Coins Progress
@@ -98,6 +66,7 @@ Date|Coin|Amount
 2021-09-23 02:26:11.995552|EOS|977.9
 2021-10-27 08:05:16.800140|ETC|112.86
 2021-09-23 13:58:35.214580|ETC|85.68
+2021-10-28 03:26:52.978579|NEO|
 2021-09-25 06:46:01.746751|NEO|106.39
 2021-10-27 08:12:21.720332|ONT|6520.0
 2021-10-08 00:03:34.341148|ONT|5891.0
