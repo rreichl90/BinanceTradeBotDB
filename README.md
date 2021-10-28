@@ -1,4 +1,4 @@
-Generated on `Thursday 28-October-2021 at 05:34:38`
+Generated on `Thursday 28-October-2021 at 05:35:41`
 
 ### Current to Target Coin Ratio
 `current_coin_ratio.sh`
@@ -66,6 +66,7 @@ Date|Coin|Amount
 2021-09-23 02:26:11.995552|EOS|977.9
 2021-10-27 08:05:16.800140|ETC|112.86
 2021-09-23 13:58:35.214580|ETC|85.68
+2021-10-28 03:34:48.330468|NEO|137.78
 2021-10-28 03:26:52.978579|NEO|
 2021-09-25 06:46:01.746751|NEO|106.39
 2021-10-27 08:12:21.720332|ONT|6520.0
