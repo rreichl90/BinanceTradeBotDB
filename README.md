@@ -1,4 +1,4 @@
-Generated on `Wednesday 03-November-2021 at 19:00:15`
+Generated on `Wednesday 03-November-2021 at 19:01:18`
 
 ### Current to Target Coin Ratio
 `current_coin_ratio.sh`
@@ -32,6 +32,16 @@ _When ratio goes above zero, the bot will buy it via the bridge coin._
 41.3641
 %
 
+**Trade no:** 
+52
+**Hodlings:** 
+1470.8
+**Date:** 
+2021-11-03 17:12:57.829166
+**Grow:** 
+50.4039
+%
+
 **Current coin:** 
 
 EOS
@@ -46,7 +56,7 @@ ATOM|138.26|182.33|31.8747
 BAT|6073.0|7988.0|31.533
 DASH|23.785|27.127|14.0509
 SOL|-|-|-
-EOS|977.9|1382.4|41.3641
+EOS|977.9|1470.8|50.4039
 ETC|85.68|112.86|31.7227
 ICX|-|-|-
 NEO|106.39|137.78|29.5047
