@@ -1,22 +1,10 @@
-Generated on `Wednesday 03-November-2021 at 18:12:13`
+Generated on `Wednesday 03-November-2021 at 18:13:16`
 
 ### Current to Target Coin Ratio
 `current_coin_ratio.sh`
 
 Date|Current|Target|Ratio
 ---|---|---|---
-2021-11-03 18:11:54.892203|ATOM|EOS|0.35
-2021-11-03 18:11:54.892203|ATOM|XMR|-5.0
-2021-11-03 18:11:54.892203|ATOM|ETC|-14.01
-2021-11-03 18:11:54.892203|ATOM|NEO|-15.62
-2021-11-03 18:11:54.892203|ATOM|DASH|-15.94
-2021-11-03 18:11:54.892203|ATOM|ONT|-19.8
-2021-11-03 18:11:54.892203|ATOM|ICX|-23.5
-2021-11-03 18:11:54.892203|ATOM|BAT|-26.17
-2021-11-03 18:11:54.892203|ATOM|OMG|-31.29
-2021-11-03 18:11:54.892203|ATOM|SOL|-32.64
-2021-11-03 18:11:54.892203|ATOM|VET|-37.85
-2021-11-03 18:11:54.892203|ATOM|QTUM|-42.32
 
 _When ratio goes above zero, the bot will buy it via the bridge coin._
 
@@ -25,38 +13,28 @@ _When ratio goes above zero, the bot will buy it via the bridge coin._
 
 
 **Trade no:** 
-28
+8
 **Hodlings:** 
-138.26
+977.9
 **Date:** 
-2021-10-06 01:10:24.332618
+2021-09-23 02:26:11.995552
 **Grow:** 
 0
 %
 
 **Trade no:** 
-34
+48
 **Hodlings:** 
-154.11
+1382.4
 **Date:** 
-2021-10-08 02:57:15.216287
+2021-10-31 13:32:55.272042
 **Grow:** 
-11.4639
-%
-
-**Trade no:** 
-50
-**Hodlings:** 
-182.33
-**Date:** 
-2021-11-03 04:51:58.057522
-**Grow:** 
-31.8747
+41.3641
 %
 
 **Current coin:** 
 
-ATOM
+EOS
 
 
 ### All Coins Progress
@@ -95,6 +73,7 @@ Date|Coin|Amount
 2021-10-03 13:54:18.419477|DASH|27.127
 2021-09-23 05:34:52.537094|DASH|24.333
 2021-09-22 16:58:57.582242|DASH|23.785
+2021-11-03 17:12:57.829166|EOS|1470.8
 2021-10-31 13:32:55.272042|EOS|1382.4
 2021-10-27 08:13:24.283688|EOS|1347.1
 2021-09-23 02:26:11.995552|EOS|977.9
