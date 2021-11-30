@@ -1,4 +1,4 @@
-Generated on `Tuesday 30-November-2021 at 01:35:46`
+Generated on `Tuesday 30-November-2021 at 01:36:49`
 
 ### Current to Target Coin Ratio
 `current_coin_ratio.sh`
@@ -52,6 +52,16 @@ _When ratio goes above zero, the bot will buy it via the bridge coin._
 41.8776
 %
 
+**Trade no:** 
+64
+**Hodlings:** 
+236.46
+**Date:** 
+2021-11-30 00:35:41.399627
+**Grow:** 
+71.0256
+%
+
 **Current coin:** 
 
 ATOM
@@ -62,7 +72,7 @@ ATOM
 
 Coin|Starting value|Last value|Grow %
 ---|---|---|---
-ATOM|138.26|196.16|41.8776
+ATOM|138.26|236.46|71.0256
 BAT|6073.0|7988.0|31.533
 DASH|23.785|27.127|14.0509
 SOL|-|-|-
