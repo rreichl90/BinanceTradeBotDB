@@ -1,4 +1,4 @@
-Generated on `Thursday 02-December-2021 at 22:12:27`
+Generated on `Thursday 02-December-2021 at 22:13:30`
 
 ### Current to Target Coin Ratio
 `current_coin_ratio.sh`
@@ -13,48 +13,18 @@ _When ratio goes above zero, the bot will buy it via the bridge coin._
 
 
 **Trade no:** 
-18
+60
 **Hodlings:** 
-106.39
+742.1
 **Date:** 
-2021-09-25 06:46:01.746751
+2021-11-24 01:47:13.436622
 **Grow:** 
 0
 %
 
-**Trade no:** 
-46
-**Hodlings:** 
-137.78
-**Date:** 
-2021-10-28 03:34:48.330468
-**Grow:** 
-29.5047
-%
-
-**Trade no:** 
-68
-**Hodlings:** 
-177.24
-**Date:** 
-2021-11-30 12:07:20.241797
-**Grow:** 
-66.5946
-%
-
-**Trade no:** 
-72
-**Hodlings:** 
-184.32
-**Date:** 
-2021-12-02 21:11:55.934233
-**Grow:** 
-73.2494
-%
-
 **Current coin:** 
 
-NEO
+OMG
 
 
 ### All Coins Progress
@@ -110,6 +80,7 @@ Date|Coin|Amount
 2021-10-28 03:34:48.330468|NEO|137.78
 2021-10-28 03:26:52.978579|NEO|
 2021-09-25 06:46:01.746751|NEO|106.39
+2021-12-02 21:13:10.732502|OMG|825.0
 2021-11-24 01:47:13.436622|OMG|742.1
 2021-10-27 08:12:21.720332|ONT|6520.0
 2021-10-08 00:03:34.341148|ONT|5891.0
