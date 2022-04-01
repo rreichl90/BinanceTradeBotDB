@@ -1,4 +1,4 @@
-Generated on `Friday 01-April-2022 at 22:49:09`
+Generated on `Friday 01-April-2022 at 22:50:12`
 
 ### Current to Target Coin Ratio
 `current_coin_ratio.sh`
@@ -32,6 +32,16 @@ _When ratio goes above zero, the bot will buy it via the bridge coin._
 22.6058
 %
 
+**Trade no:** 
+96
+**Hodlings:** 
+6662.3
+**Date:** 
+2022-04-01 20:48:09.237305
+**Grow:** 
+33.0092
+%
+
 **Current coin:** 
 
 ICX
@@ -48,7 +58,7 @@ DASH|23.785|27.127|14.0509
 SOL|-|-|-
 EOS|977.9|2325.5|137.806
 ETC|85.68|112.86|31.7227
-ICX|5008.9|6141.2|22.6058
+ICX|5008.9|6662.3|33.0092
 NEO|106.39|248.67|133.734
 OMG|742.1|1018.8|37.2861
 ONT|4954.0|6520.0|31.6108
