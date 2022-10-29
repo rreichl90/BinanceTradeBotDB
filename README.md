@@ -1,4 +1,4 @@
-Generated on `Saturday 29-October-2022 at 22:27:58`
+Generated on `Saturday 29-October-2022 at 22:29:01`
 
 ### Current to Target Coin Ratio
 `current_coin_ratio.sh`
