@@ -1,4 +1,4 @@
-Generated on `Friday 10-March-2023 at 06:39:57`
+Generated on `Friday 10-March-2023 at 06:41:00`
 
 ### Current to Target Coin Ratio
 `current_coin_ratio.sh`
